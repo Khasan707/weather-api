@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Погода-API</string>
+    <string name="icon_description">Current weather icon</string>
+    <string name="temperature">Температура: </string>
+    <string name="pressure">Давление: </string>
+    <string name="humidity">Влажность: </string>
+    <string name="cloudiness">Облачность: </string>
+    <string name="wind_direction">Направление: </string>
+    <string name="wind">Ветер: </string>
+    <string name="celsius">°C</string>
+    <string name="refresh">Обновить</string>
+    <string name="refreshed">Погода обновлена</string>
+    <string name="search_hint">Поиск города</string>
+    <string name="action_search">Поиск</string>
+    <string name="instruction">Инструкция</string>
+    <string name="instruction_message">Внимание: вводить города только на английском.</string>
+    <string name="ok">OK</string>
+</resources>
